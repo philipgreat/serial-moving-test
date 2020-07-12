@@ -27,3 +27,6 @@
 ```
 luarocks install --local rs232
 ```
+Do not install librs232, it is NOT working for lua version > 5.1
+
+
